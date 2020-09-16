@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        our practice starts
+        our practice starts---
       </h1>
       <DatePick/>
     </div>
